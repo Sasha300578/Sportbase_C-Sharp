@@ -1,0 +1,104 @@
+[
+  {
+    "Zvanie": "1",
+    "Coachs": [],
+    "Weight": 85.0,
+    "Date_dopusk": null,
+    "Date_strahovka": null,
+    "Surname": "осипов",
+    "Name": "илья",
+    "Patronymic": "владимирович",
+    "Pole": "Мужской",
+    "Teams": [],
+    "Date_birth": "2004-03-30T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Zvanie": "1",
+    "Coachs": [
+      "мельникова оксана дмитриевна"
+    ],
+    "Weight": 80.0,
+    "Date_dopusk": "2023-07-25T00:00:00",
+    "Date_strahovka": "2023-08-27T00:00:00",
+    "Surname": "ершов",
+    "Name": "александр",
+    "Patronymic": "павлович",
+    "Pole": "Мужской",
+    "Teams": [
+      "Буревестник"
+    ],
+    "Date_birth": "2004-03-23T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Zvanie": "КМС",
+    "Coachs": [
+      "мельникова оксана дмитриевна"
+    ],
+    "Weight": 86.0,
+    "Date_dopusk": null,
+    "Date_strahovka": null,
+    "Surname": "арефьев",
+    "Name": "сергей",
+    "Patronymic": "александрович",
+    "Pole": "Мужской",
+    "Teams": [
+      "Буревестник"
+    ],
+    "Date_birth": "2002-03-04T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Zvanie": "МС",
+    "Coachs": [],
+    "Weight": 87.0,
+    "Date_dopusk": null,
+    "Date_strahovka": "2023-08-26T00:00:00",
+    "Surname": "коваль",
+    "Name": "егор",
+    "Patronymic": "сергеевич",
+    "Pole": "Мужской",
+    "Teams": [],
+    "Date_birth": "1998-05-19T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Zvanie": "2",
+    "Coachs": [
+      "мельникова оксана дмитриевна",
+      "мотуз юлия вячеславовна"
+    ],
+    "Weight": 2.0,
+    "Date_dopusk": null,
+    "Date_strahovka": null,
+    "Surname": "иванов",
+    "Name": "иван",
+    "Patronymic": "иванович",
+    "Pole": "Мужской",
+    "Teams": [
+      "Бурик",
+      "УОР"
+    ],
+    "Date_birth": "2002-02-02T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Zvanie": "МС",
+    "Coachs": [
+      "полянская елена ивановна"
+    ],
+    "Weight": 6.0,
+    "Date_dopusk": "2023-06-26T00:00:00",
+    "Date_strahovka": "2023-06-26T00:00:00",
+    "Surname": "иванов",
+    "Name": "иван",
+    "Patronymic": "иванович",
+    "Pole": "Мужской",
+    "Teams": [
+      "УОР"
+    ],
+    "Date_birth": "2006-06-06T00:00:00",
+    "Type_sport": "Гребля"
+  }
+]

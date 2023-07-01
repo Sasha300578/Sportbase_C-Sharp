@@ -1,0 +1,82 @@
+[
+  {
+    "Sportsmans": [],
+    "Sportsman_count": 4,
+    "Surname": "полянская",
+    "Name": "елена",
+    "Patronymic": "ивановна",
+    "Pole": "Женский",
+    "Teams": [],
+    "Date_birth": "1966-04-01T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Sportsmans": [
+      "арефьев сергей александрович",
+      "ершов александр павлович"
+    ],
+    "Sportsman_count": 6,
+    "Surname": "мельникова",
+    "Name": "оксана",
+    "Patronymic": "дмитриевна",
+    "Pole": "Женский",
+    "Teams": [
+      "Буревестник"
+    ],
+    "Date_birth": "1966-03-01T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Sportsmans": [],
+    "Sportsman_count": 8,
+    "Surname": "мотуз",
+    "Name": "юлия",
+    "Patronymic": "вячеславовна",
+    "Pole": "Женский",
+    "Teams": [],
+    "Date_birth": "1960-04-05T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Sportsmans": [],
+    "Sportsman_count": 10,
+    "Surname": "панков",
+    "Name": "павел",
+    "Patronymic": "модестович",
+    "Pole": "Мужской",
+    "Teams": [],
+    "Date_birth": "1955-05-04T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Sportsmans": [
+      "ершов александр павлович"
+    ],
+    "Sportsman_count": 3,
+    "Surname": "васечкин",
+    "Name": "вася",
+    "Patronymic": "васильевич",
+    "Pole": "Мужской",
+    "Teams": [
+      "Бурик"
+    ],
+    "Date_birth": "2003-03-03T00:00:00",
+    "Type_sport": "Гребля"
+  },
+  {
+    "Sportsmans": [
+      "полянская елена ивановна",
+      "арефьев сергей александрович"
+    ],
+    "Sportsman_count": 5,
+    "Surname": "васечкин",
+    "Name": "вася",
+    "Patronymic": "васильевич",
+    "Pole": "Мужской",
+    "Teams": [
+      "Динамо"
+    ],
+    "Date_birth": "2001-01-01T00:00:00",
+    "Type_sport": "Гребля"
+  }
+]
